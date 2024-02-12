@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/train.gif" width="900" height="338"/>
+<img src="/train.gif" width="700" height="338"/>
 </p>
 
 # :space_invader: Hi I'm Nam
