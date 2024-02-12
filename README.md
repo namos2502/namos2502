@@ -1,4 +1,8 @@
-  # :space_invader: Hi I'm Nam
+<p align="center">
+<img src="/train.gif" width="1200" height="676"/>
+</p>
+
+# :space_invader: Hi I'm Nam
 
 I am a Software Engineer contribute to the Open Source community, co-developer of ReacType (a popular Open Source tools on Github and was featured in React Digest newsletter)<br>
 <br>My coding journey started in 2015 with Java as my first programming language. Fast-forwards to today I'm learning web development and building full-stack web applications.<br>
