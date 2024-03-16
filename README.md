@@ -5,8 +5,8 @@
 # :space_invader: Hi I'm Nam
 
 I am a Software Engineer contribute to the Open Source community, co-developer of ReacType (a popular Open Source tools on Github and was featured in React Digest newsletter)<br>
-<br>Currently I'm learning web development and building full-stack web applications.<br>
-<br>When I’m not at the computer, I’m usually working out, spending time with my doggo, or watching a really good TV show.
+<br>Currently my focus is on web development building full-stack web applications.<br>
+<br>When I’m not at the computer, I’m usually working out, spend time outdoor with my doggo, or watching a really good TV show.
 
 # Stats:
 <div align="center">
