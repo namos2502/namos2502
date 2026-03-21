@@ -4,8 +4,7 @@
 
 # :space_invader: Hi, I'm Nam
 
-I am a Software Engineer who contributes to the Open Source community<br>
-<br>Currently, my focus is on web dev and building agentic AI tools.<br>
+I'm a lifelong learner who enjoys building software and contributing to open-source.
 <br>When I’m not at the computer, I’m usually working out, spending time outdoors with my doggo, or watching a really good TV show.
 
 # Stats:
